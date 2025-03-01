@@ -1,2 +1,12 @@
 # MIDTERM-TASK-PORTFOLIO
-Midterm Portfolio for 7EDM by Allek Laquindanum
+Midterm Portfolio for 7EDM-I102
+## About Me
+Hello, I am Allek Miehl Almanzar Laquindanum. 18 years old. This is my official portfolio for the EDM Midterm Lab Task.
+## Education
+I am a BSIS student of section I102 at 
+College: City College of Angeles
+High School: Systems Plus College Foundation - Main
+
+## My Projects:
+- Midterm Lab Task 1:[Data Cleansing and Preparation]
+- Midterm Lab Task 2:
