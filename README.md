@@ -1,4 +1,4 @@
-# MIDTERM-TASK-PORTFOLIO
+# EDM-V3 LAQUINDANUM
 Midterm Portfolio for 7EDM-I102
 ## About Me
 Hello, I am Allek Miehl Almanzar Laquindanum. 18 years old. This is my official portfolio for the EDM Midterm Lab Task.
