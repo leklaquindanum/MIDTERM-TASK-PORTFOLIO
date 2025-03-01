@@ -7,5 +7,5 @@ College: City College of Angeles - BSIS - I102
 High School: Systems Plus College Foundation - Main
 
 ## My Projects:
-- Midterm Lab Task 1:[Data Cleansing and Preparation]
+- Midterm Lab Task 1: [Data Cleansing and Preparation]()
 - Midterm Lab Task 2:
