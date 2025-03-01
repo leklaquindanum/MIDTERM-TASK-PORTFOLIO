@@ -1,0 +1,5 @@
+
+# Midterm Lab Task 1
+Data Cleansing using EXCEL
+# Sample Screenshot
+![screenshot](/images/ERD_Laquindanum.png)
